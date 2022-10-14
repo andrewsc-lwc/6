@@ -12,7 +12,7 @@
 
             //string[,] myAnimals = { {"Fido","12","55" },{"Felix","9","43"} };
             //Console.WriteLine("My pet is called " + myAnimals[0,0] + " and they are " + myAnimals[0,1] + " years old.");
-
+            //Note that the array above may look more efficient, but arrays can only be of one data type.
 
 
         }
